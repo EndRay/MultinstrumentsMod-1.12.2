@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "instrumentsmod:coagulator" },
+    "facing=south": { "model": "instrumentsmod:coagulator", "y": 180 },
+    "facing=west": { "model": "instrumentsmod:coagulator", "y": 270 },
+    "facing=east": { "model": "instrumentsmod:coagulator", "y": 90 }
+  }
+}
